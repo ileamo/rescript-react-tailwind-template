@@ -30,5 +30,5 @@ and visit http://localhost:8080.
 
 ## References
 
-https://dusty.phillips.codes/2021/09/30/fast-bare-rescript-react/\
+https://dusty.phillips.codes/2021/09/30/fast-bare-rescript-react/<br>
 https://willcodefor.beer/posts/how-to-add-tailwind-to-a-rescript-project/
