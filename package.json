@@ -1,0 +1,31 @@
+{
+  "name": "fast-bare-rescript-react",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "build": "rescript",
+    "build:deps": "rescript build -with-deps",
+    "build:watch": "rescript build -w",
+    "clean": "rescript clean -with-deps",
+    "start": "vite",
+    "release": "vite build"
+  },
+  "keywords": [
+    "rescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@rescript/react": "^0.10.3",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.11",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "rescript": "*",
+    "tailwindcss": "^2.2.17"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-refresh": "^1.3.6",
+    "vite": "^2.6.10"
+  }
+}

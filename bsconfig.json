@@ -1,0 +1,22 @@
+{
+  "name": "fast-bare-rescript-react",
+  "version": "0.0.1",
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "package-specs": {
+    "module": "es6-global",
+    "in-source": true
+  },
+  "suffix": ".mjs",
+  "bs-dependencies": [
+    "@rescript/react"
+  ],
+  "warnings": {
+    "error": "+101"
+  },
+  "reason": {
+    "react-jsx": 3
+  }
+}
